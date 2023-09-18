@@ -8,7 +8,7 @@ author: "SMOLKEYS"
 
 minGameVersion: "146"
 
-version: "0"
+version: 1
 
 main: "meta.MetaChaos"
 
