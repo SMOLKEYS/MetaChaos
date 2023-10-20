@@ -1,5 +1,3 @@
-@file:Suppress("MayBeConstant")
-
 package meta
 
 import arc.Core
@@ -7,7 +5,7 @@ import arc.files.Fi
 import arc.struct.Seq
 import com.github.mnemotechnician.mkui.delegates.setting
 
-@Suppress("MemberVisibilityCanBePrivate", "SpellCheckingInspection")
+@Suppress("MemberVisibilityCanBePrivate", "SpellCheckingInspection", "MayBeConstant")
 object MetaVars {
     val syn = "metachaos-"
     var filesLoaded = false
